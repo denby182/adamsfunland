@@ -5,8 +5,8 @@ A curated list of awesome CSS examples, libraries and resources.
 
 - [Bucketlist](http://www.bucketlistly.com/)
 - [P.O.C.](http://www.awwwards.com/web-design-awards/p-o-c)
-- [Backup](http://96elephants.org/)
-- [Backup](http://96elephants.org/)
+- [Adidas](http://www.adidas.co.uk/)
+- [FireBox](http://www.firebox.com)
 - [Backup](http://96elephants.org/)
 - [Backup](http://96elephants.org/)
 - [Merge Records](http://www.mergerecords.com/)
@@ -19,5 +19,6 @@ A curated list of awesome CSS examples, libraries and resources.
     
 ### Handy CSS effects that look sweet
     - [Code Reviews](https://codemyviews.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
+    - [1st Web Designer](http://1stwebdesigner.com/css-effects/)
 
 

@@ -1,5 +1,5 @@
 # Awesome Examples of Sweet CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome CSS examples, libraries and resources. 
+A curated list of awesome CSS examples, libraries and resources. More of a kinda mood board really.
 
 ### Examples of work
 
@@ -22,7 +22,7 @@ A curated list of awesome CSS examples, libraries and resources.
 - [1st Web Designer](http://1stwebdesigner.com/css-effects/)
 - [Hover.css](http://ianlunn.github.io/Hover/)
 - [Design Modo](http://designmodo.com/css3-text-effect-tutorials/)
-- [Code Reviews](https://codemyviews.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
+- [Smash Magazine](https://www.smashingmagazine.com/2010/02/50-brilliant-css3-javascript-coding-techniques/)
 
 
 

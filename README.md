@@ -7,8 +7,8 @@ A curated list of awesome CSS examples, libraries and resources.
 - [P.O.C.](http://www.awwwards.com/web-design-awards/p-o-c)
 - [Adidas](http://www.adidas.co.uk/)
 - [FireBox](http://www.firebox.com)
-- [Backup](http://96elephants.org/)
-- [Backup](http://96elephants.org/)
+- [DDC Design](http://dccdesign.co.uk/)
+- [Micael Paul Young](http://www.michaelpaulyoung.com/)
 - [Merge Records](http://www.mergerecords.com/)
 - [Girl Effect](http://girleffect.org/2015-beyond/girls-voices)
 - [Creative Blog](http://www.creativebloq.com/css3/creature-3132168)
@@ -18,7 +18,11 @@ A curated list of awesome CSS examples, libraries and resources.
 - [Caava Design](http://www.caavadesign.com/)
     
 ### Handy CSS effects that look sweet
-    - [Code Reviews](https://codemyviews.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
-    - [1st Web Designer](http://1stwebdesigner.com/css-effects/)
+- [Code Reviews](https://codemyviews.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
+- [1st Web Designer](http://1stwebdesigner.com/css-effects/)
+- [Hover.css](http://ianlunn.github.io/Hover/)
+- [Design Modo](http://designmodo.com/css3-text-effect-tutorials/)
+- [Code Reviews](https://codemyviews.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
+
 
 

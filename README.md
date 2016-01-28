@@ -1,6 +1,9 @@
 # Awesome Examples of Sweet CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome CSS examples, libraries and resources. More of a kinda mood board really.
 
+![alt tag](https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif)
+
+
 ### Examples of work
 
 - [Bucketlist](http://www.bucketlistly.com/)
@@ -23,6 +26,3 @@ A curated list of awesome CSS examples, libraries and resources. More of a kinda
 - [Hover.css](http://ianlunn.github.io/Hover/)
 - [Design Modo](http://designmodo.com/css3-text-effect-tutorials/)
 - [Smash Magazine](https://www.smashingmagazine.com/2010/02/50-brilliant-css3-javascript-coding-techniques/)
-
-
-
